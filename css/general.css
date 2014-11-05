@@ -21,6 +21,14 @@ html {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+    margin: 0;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
 
 
 h4{
