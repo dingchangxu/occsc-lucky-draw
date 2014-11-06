@@ -86,7 +86,6 @@ nav {
 .nav a:focus,
 .nav a:active {
   background-color: #0074D9;
-
   color: #fff;
 }
 
@@ -96,8 +95,6 @@ nav {
     position: absolute;
     margin-top: -2rem;
     right: 1%;
-
-
 }
 
 .logo2 {
@@ -107,7 +104,11 @@ nav {
     margin-top: -2rem;
 }
 
-
+.js {
+    text-align: right;
+    color: #565656;
+    margin-bottom: .3rem;
+}
 
 
 .occscf {
@@ -128,7 +129,11 @@ nav {
 }
 
 
-
+.thanks {
+    text-align: right;
+    margin-bottom: -1rem;
+    color: #565656;
+}
 
 
 
