@@ -31,7 +31,8 @@ img {
 }
 
 
-h4{
+h4,
+.pad-top {
     color: red;
 }
 
@@ -89,13 +90,34 @@ nav {
   color: #fff;
 }
 
+.logo1 {
+    padding: .5rem;
+    width: 4.5rem;
+    position: absolute;
+    margin-top: -1.5rem;
+    right: 1%;
+
+
+}
+
+.logo2 {
+    padding: .5rem;
+    width: 5.5rem;
+    position: absolute;
+    margin-top: -1rem;
+}
 
 
 
 
-
-
-
+.occsc {
+    padding: 4rem;
+    position: absolute;
+    margin-top: -4rem;
+    text-align: center;
+    display: block;
+    width: 100%;
+}
 
 
 
