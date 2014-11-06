@@ -57,9 +57,12 @@ nav {
 
 .milli {
     text-align: right;
+    padding: .5rem; 
 }
 
-
+.buy {
+    text-align: center;
+}
 
 .nav {
   padding: 0;
