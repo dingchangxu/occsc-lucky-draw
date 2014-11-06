@@ -149,13 +149,13 @@ nav {
     display: block;
     width: 1rem;
     right: 69%;
-    margin-top: -.3rem;
+    margin-top: -6%;
 }
 
 .cfigcaption {
     position: absolute;
     display: block;
-    margin-top: -.5rem;
+    margin-top: -7%;
     width: 9rem;
     text-align: right;
 }
