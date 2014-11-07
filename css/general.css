@@ -147,9 +147,9 @@ nav {
 .cmoments {
     position: absolute;
     display: block;
-    width: 1rem;
-    right: 66%;
-    margin-top: -2%;
+    width: .9rem;
+    right: 6rem;
+    margin-top: -.2em;
 }
 
 .cfigcaption {
