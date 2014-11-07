@@ -125,13 +125,13 @@ nav {
     display: block;
     width: 1rem;
     right: 91%;
-    margin-top: -2%;
+    margin-top: -0.5em;
 }
 
 .figcaption {
     position: absolute;
     display: block;
-    margin-top: -5%;
+    margin-top: -0.6em;
     width: 10rem;
     text-align: center;
 }
