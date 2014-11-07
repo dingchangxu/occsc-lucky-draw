@@ -124,40 +124,39 @@ nav {
     position: absolute;
     display: block;
     width: 1rem;
-    right: 91%;
-    margin-top: -0.5em;
+    right: 2rem;
+    margin-top: -.3em;
 }
 
 .figcaption {
     position: absolute;
     display: block;
     margin-top: -0.6em;
-    width: 10rem;
-    text-align: center;
+    text-align: left;
+    width: 9rem;
+    right: -7.1em;
 }
 
 .both {
     position: absolute;
     display: block;
-    width: 9rem;
-    right: 2%;
+    right: 7.1rem;
 }
 
 
 .cmoments {
     position: absolute;
     display: block;
-    width: .9rem;
-    right: 6.1rem;
-    margin-top: -.2em;
+    width: 1rem;
+    right: .1rem;
+    margin-top: -.3em;
 }
 
 .cfigcaption {
     position: absolute;
     display: block;
-    margin-top: -5%;
-    width: 9rem;
-    text-align: right;
+    margin-top: -.6rem;
+    width: 6rem;
 }
 
 .date {
