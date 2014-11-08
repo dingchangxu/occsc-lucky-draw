@@ -170,4 +170,43 @@ nav {
 
 
 
+.back-top.appear {
+    display: block;
+    opacity: 0.95;
+}
+
+.back-top {
+    position: fixed;
+    bottom: 5em;
+    right: 0;
+    z-index: 99;
+    border-radius: 2px 0 0 2px;
+}
+
+
+.button {
+    padding: .5em 1em;
+    background-color: #9f0b1e;
+    color: #fff;
+    font-size: .875em;
+font-weight: 700;
+text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
+border-radius: 2px;
+text-decoration: none;
+text-transform: uppercase;
+-webkit-box-shadow: rgba(0,0,0,0.4) 0 1px 1px 0;
+-moz-box-shadow: rgba(0,0,0,0.4) 0 1px 1px 0;
+box-shadow: rgba(0,0,0,0.4) 0 1px 1px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
 
