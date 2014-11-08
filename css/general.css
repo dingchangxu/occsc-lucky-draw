@@ -133,6 +133,13 @@ nav {
     color: #3F0411;
 }
 
+.redbox {
+    position: absolute;
+    margin-left: 3rem;
+    margin-top: -1.3em;
+}
+
+
 .share {
     text-align: right;
     margin: 0;
