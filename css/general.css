@@ -167,7 +167,9 @@ nav {
     color: #565656;
 }
 
-
+.note {
+    text-align: center;
+}
 
 
 .back-top.appear {
@@ -186,7 +188,7 @@ nav {
 
 .button {
     padding: .5em 1em;
-    background-color: #9f0b1e;
+    background-color: red;
     color: #fff;
     font-size: .875em;
 font-weight: 700;
