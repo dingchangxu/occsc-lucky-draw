@@ -63,6 +63,7 @@ nav {
 
 .buy {
     text-align: center;
+    color: #3F0411;
 }
 
 .nav {
@@ -120,11 +121,16 @@ nav {
     width: 100%;
 }
 
+.how {
+    color: #3F0411;
+}
+
 .share {
     text-align: right;
     margin: 0;
     padding: 0;
     margin-bottom: -.9em;
+    color: #3F0411;
 }
 
 .moments {
@@ -136,6 +142,7 @@ nav {
 .figcaption {
     display: inline-block;
     vertical-align: middle;
+    color: #3F0411;
 }
 
 
@@ -152,6 +159,7 @@ nav {
     display: block;
     margin-top: -.6rem;
     width: 6rem;
+    color: #3F0411;
 }
 
 .date {
@@ -188,7 +196,7 @@ nav {
 
 .button {
     padding: .5em 1em;
-    background-color: red;
+    background-color: #3F0411;
     color: #fff;
     font-size: .875em;
 font-weight: 700;
