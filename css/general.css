@@ -33,6 +33,7 @@ p {
 
 .mega {
     line-height: 1.5em;
+    color: #3F0411;
     
 }
 
@@ -44,6 +45,7 @@ img {
 
 h1 {
     text-align: center;
+    color: #3F0411;
 }
 
 h2 {
@@ -78,6 +80,7 @@ nav {
     text-align: right;
     padding: .5rem;
     margin-bottom: -1rem;
+    color: #3F0411;
 }
 
 .buy {
