@@ -30,14 +30,9 @@ img {
     width: 100%;
 }
 
-
 h2 {
     line-height: 1.9rem;
 }
-
-
-
-
 
 h4,
 .pad-top {
@@ -119,7 +114,6 @@ nav {
     margin-bottom: .3rem;
 }
 
-
 .occscf {
     padding: 4.5rem;
     position: absolute;
@@ -133,14 +127,11 @@ nav {
     color: #3F0411;
 }
 
- 
-
 .redbox {
     margin-left: 0;
     margin-top: -2em;
     margin-bottom: -1.7em;
 }
-
 
 .share {
     text-align: right;
@@ -161,7 +152,6 @@ nav {
     vertical-align: middle;
     color: #3F0411;
 }
-
 
 .cmoments {
     position: absolute;
@@ -185,7 +175,6 @@ nav {
     margin-bottom: -1rem;
 }
 
-
 .thanks {
     text-align: right;
     margin-bottom: -1rem;
@@ -195,7 +184,6 @@ nav {
 .note {
     text-align: center;
 }
-
 
 .back-top.appear {
     display: block;
@@ -209,7 +197,6 @@ nav {
     z-index: 99;
     border-radius: 2px 0 0 2px;
 }
-
 
 .button {
     padding: .5em 1em;
@@ -228,6 +215,42 @@ box-shadow: rgba(0,0,0,0.4) 0 1px 1px 0;
 
 
 
+element.style {
+display: none;
+}
+.rich_media_tool .link_primary {
+color: #8c8c8c;
+}
+.rich_media_tool .meta_primary {
+float: left;
+margin-right: 14px;
+}
+user agent stylesheetdiv {
+display: block;
+}
+Inherited from div#js_toobar.rich_media_tool
+.rich_media_tool {
+padding: 18px 0;
+font-size: 14px;
+}
+Inherited from body#activity-detail.en_US
+body {
+line-height: 1.6;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 16px;
+}
+
+
+Show inherited properties
+color: rgb(140, 140, 140);
+display: none;
+float: left;
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 14px;
+height: auto;
+line-height: 22.3999996185303px;
+margin-right: 14px;
+width: auto;
 
 
 
