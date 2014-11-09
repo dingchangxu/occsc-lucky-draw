@@ -47,8 +47,7 @@ h1 {
 }
 
 h2 {
-    <!--line-height: 1.9rem;-->
-    line-height: -2em;
+    line-height: 1.9rem;
     padding-bottom: -4rem;
 }
 
