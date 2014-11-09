@@ -25,6 +25,13 @@ body {
     margin: 0;
 }
 
+
+.mega {
+    line-height: 1.5em;
+    
+}
+
+
 img {
     display: block;
     width: 100%;
@@ -212,51 +219,6 @@ text-transform: uppercase;
 -moz-box-shadow: rgba(0,0,0,0.4) 0 1px 1px 0;
 box-shadow: rgba(0,0,0,0.4) 0 1px 1px 0;
 }
-
-
-
-element.style {
-display: none;
-}
-.rich_media_tool .link_primary {
-color: #8c8c8c;
-}
-.rich_media_tool .meta_primary {
-float: left;
-margin-right: 14px;
-}
-user agent stylesheetdiv {
-display: block;
-}
-Inherited from div#js_toobar.rich_media_tool
-.rich_media_tool {
-padding: 18px 0;
-font-size: 14px;
-}
-Inherited from body#activity-detail.en_US
-body {
-line-height: 1.6;
-font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size: 16px;
-}
-
-
-Show inherited properties
-color: rgb(140, 140, 140);
-display: none;
-float: left;
-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-font-size: 14px;
-height: auto;
-line-height: 22.3999996185303px;
-margin-right: 14px;
-width: auto;
-
-
-
-
-
-
 
 
 
