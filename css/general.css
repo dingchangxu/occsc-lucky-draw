@@ -109,7 +109,7 @@ nav {
 .nav a:focus,
 .nav a:active {
   background-color: #0074D9;
-  color: #fff;
+  /*color: #fff;*/
 }
 
 .logo1 {
